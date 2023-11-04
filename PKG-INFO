@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: ozi-wrap
+Version: 0.0.0
+Summary: Wrapdb file generator for OZI.
+Home-page: https://oziproject.dev
+Requires-Python: >= 3.12, <= 3.10
+Keywords: Private,do-no-upload
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Development Status :: 1 - Planning
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Intended Audience :: Other Audience
+Classifier: Natural Language :: English
+Classifier: Typing :: Typed
+Classifier: Environment :: Other Environment
+Requires-Dist: requests
+Requires-Dist: jinja2
+Description-Content-Type: text/x-rst
+
+.. OZI
+  Classifier: License-Expression :: Apache-2.0 WITH LLVM-exception
+  Classifier: License-File :: LICENSE.txt
+
+..
+  Part of OZI.wrap.
+  See LICENSE.txt in the project root for details.
+
+========
+ozi-wrap
+========
+
+.. image:: https://raw.githubusercontent.com/sigstore/community/main/artwork/badge/sigstore_codesigned_purple.png
+ :align: right
+ :height: 140
+ :target: https://www.sigstore.dev/
